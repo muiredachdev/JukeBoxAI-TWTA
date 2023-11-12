@@ -7,6 +7,6 @@ instructions:
 
 To train a new model you must first create a folder in your Google Drive containing the WAV files of all the audio you wish to train on.
 
-Follow the instructions in the FineTuning notebook to begin training. I recommend initially training to around 8k steps before sampling to check if the model is trainging correctly.
+Follow the instructions in the FineTuning notebook to begin training. I recommend initially training to around 8k steps before sampling to check if the model is training correctly.
 
 Once the model is sufficently trained use the Sampling notebook to begin generating audio with your model.
